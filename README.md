@@ -15,6 +15,27 @@ This project documents the setup of a virtualization environment using VirtualBo
 
 ## Installation Process
 
-Step 1: Update System
--Updated system packages to ensure compatibility.
+Screenshots of installation and setup are provided in the images folder.
 
+1 System update-command[sudo apt update && sudo apt upgrade -y]
+2 Package installation-command[sudo apt install build-essential dkms linux-headers-$(uname -r)]
+3 VirtualBox installation-command [sudo apt install virtualbox]
+4 Application launch - command [virtualbox]
+
+## Installation Screenshots
+
+### Step 1: System Update
+[System Update]-(images/-step1.png)(images/step1-output.png)
+
+### Step 2: Package Installation
+[Package Installation]-(images/install-step2.png)(images/install-step2-output)
+
+### Step 3: VirtualBox Installed
+[VirtualBox installation]-(images/virtualbox-installed.png)(images/virtualbox--installed.png)
+
+### step 4: Apllication Lauch
+[Application Lauch]-(images/application-lauch.png)
+
+
+## Outcome
+VirtualBox was successfully installed and configured on Debian. The environment is now ready for creating and managing virtual machines for further lab exercises.
