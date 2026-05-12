@@ -16,3 +16,5 @@ This project documents the setup of a virtualization environment using VirtualBo
 ## Installation Process
 
 Step 1: Update System
+-Updated system packages to ensure compatibility.
+
