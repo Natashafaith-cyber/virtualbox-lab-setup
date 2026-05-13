@@ -39,3 +39,17 @@ Screenshots of installation and setup are provided in the images folder.
 
 ## Outcome
 VirtualBox was successfully installed and configured on Debian. The environment is now ready for creating and managing virtual machines for further lab exercises.
+
+
+## Virtual Lab Setup
+
+A Windows virtual machine was created using VirtualBox on a Debian host system.
+
+### Configuration
+- RAM: 4GB
+- CPU: 2 cores
+- Storage: 80GB
+- OS: Windows 11
+
+### Purpose
+Used for system testing, monitoring, and cybersecurity practice in a controlled environment.
