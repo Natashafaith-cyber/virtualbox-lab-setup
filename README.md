@@ -50,6 +50,8 @@ A Windows virtual machine was created using VirtualBox on a Debian host system.
 - CPU: 2 cores
 - Storage: 80GB
 - OS: Windows 11
+- 
+# Virtual Machine Status-The Windows virtual machine is currently powered off and ready for deployment.
 
-### Purpose
-Used for system testing, monitoring, and cybersecurity practice in a controlled environment.
+### Booting the VM and initiating OS installation.
+  
