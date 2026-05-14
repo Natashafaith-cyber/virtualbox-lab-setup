@@ -53,5 +53,9 @@ A Windows virtual machine was created using VirtualBox on a Debian host system.
 - 
 # Virtual Machine Status-The Windows virtual machine is currently powered off and ready for deployment.
 
-### Booting the VM and initiating OS installation.
+### ## Virtual Machine Deployment
+
+A Windows virtual machine was successfully booted using a mounted ISO image in VirtualBox.
+
+The installation process was initiated and configured using a virtual disk environment.
   
